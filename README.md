@@ -6,3 +6,4 @@ No mas XML, el problema con los XML es que al ser otro lenguaje, el propio Andro
 
 Al principio cuesta entenderlo porque hay que cambiar el chip. Nosotros trabajamos con vistas imperativas, con la programación imperativa, es decir, nuestra función dice haz esto, cambia aquello. Mientras que con Jetpack Compose son vistas declarativas, es más reactivo. 
 
+**Los componentes por defecto son wrap_content.**
